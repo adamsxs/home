@@ -15,7 +15,7 @@ Sam
 # Quick links:
 ## Data Science Projects:
 All projects listed below cover the machine learning process, from gathering and exploring the data to interpreting how the model results apply to the use case.
-I've included the main model category in the title, but there are plenty of more subtle techniques at work in each project.
+I've included the main model category in the title, but there are plenty of more subtle techniques at work in each project.  
 [Predicting Hurricane Damage Costs using NOAA Data: linear regression](https://github.com/adamsxs/metis_project_02)  
 [Detecting Air Pressure System Failure in Scania Trucks: classification](https://github.com/adamsxs/metis_project_03)  
 [Identifying Hate Speech on Twitter: NLP, topic modeling, classification](https://github.com/adamsxs/metis_project_04_NLP)  
